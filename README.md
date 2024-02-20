@@ -13,11 +13,8 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-## 🕹️ Tech Enthusiast & CS Student | Exploring the Boundaries of Computing 🖥️💡 | Innovating for Tomorrow's Solutions
 
 - A dedicated self-learner in the vast realm of technology
 - Passionate about the fusion of gaming and computing
