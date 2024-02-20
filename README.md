@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://camo.githubusercontent.com/23ea0ef646d06d0eaf456ec16a46fd7e192a0a416bdc586da5c14d4a825586f4/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6461746162617365706172726f742e676966" width= 100%><br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width= 100%><br><br>
 
 
 <br>
