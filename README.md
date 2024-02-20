@@ -17,11 +17,13 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.chattouti.live)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://tarek.chattouti.live))
+## 🕹️ Tech Enthusiast & CS Student | Exploring the Boundaries of Computing 🖥️💡 | Innovating for Tomorrow's Solutions
+
+- A dedicated self-learner in the vast realm of technology
+- Passionate about the fusion of gaming and computing
+- Currently delving into various aspects of technology and development
+- Discover more on my personal website [here](https://www.chattouti.live)
+- Actively seeking engaging opportunities in the tech world! Explore [my resume](https://tarek.chattouti.live)
 
 <br><br>
 
@@ -100,7 +102,7 @@
 
 <li>
 <a href="https://instagram.com/imaginary.tarek" target="_blank">
-<img src="https://img.shields.io/badge/Instagram: imaginary.tarek-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Instagram: imaginary.tarek-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
