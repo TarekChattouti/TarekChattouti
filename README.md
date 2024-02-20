@@ -32,7 +32,8 @@
 
 <p align="center">
 
-
+- **Languages**:
+    
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
